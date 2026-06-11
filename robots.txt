@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /images/
-Disallow: /css/
-Disallow: /js/
-
-Sitemap: https://whiteoutsurvivalguide.info/sitemap.xml
